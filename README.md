@@ -2,16 +2,15 @@
 Add Loader (Loading) screen into your website!
 
 ## Quick Start
-+ CDN Url : `` 
++ CDN Url : `https://cdn.jsdelivr.net/gh/ScadeBlock/ULoader@refs/heads/main/release/latest/uloaderjs.min.js` 
 + How to use
   - With CDN: Add \
-  `<script src=""></script>`\
+  `<script src="https://cdn.jsdelivr.net/gh/ScadeBlock/ULoader@refs/heads/main/release/latest/uloaderjs.min.js"></script>`\
  into your `<body>` element
   - Local Host (Better Performance): Download `ULoaderjs.min.js` from Release Tab, and then add it into your website
 
 ## Demo
-
-https://github.com/ScadeBlock/ULoaderJS/assets/89845150/969e0e59-da89-49ec-ae64-7356b3de5e3c
+Unavailable now~
 ___
 ## Ritial
 + Ritial is an alternative to ULoaderJS, but more optimized - harder to setup.
@@ -20,7 +19,7 @@ ___
   <summary><b>How to setup</b></summary>
 
   ### How to setup 
-+ Download `ritial.min.js` from Release Tab and then import it into your site (`body` element )
++ Use cdn: `https://cdn.jsdelivr.net/gh/ScadeBlock/ULoader@refs/heads/main/release/latest/ritial.min.js` Download `ritial.min.js` from Release Tab and then import it into your site (`body` element )
 + Then add following html code into `body`
 > `<div id="uloadermain" class="uloader-mainpage uloader-hiddex"><div class="uloader-content"><center><h2 style="color:#fff">Loading</h2><div class="uloader-loadingspinner"><div id="square1"></div><div id="square2"></div><div id="square3"></div><div id="square4"></div><div id="square5"></div></div></center></div></div>`
 
